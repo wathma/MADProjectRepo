@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Easy App</string>
+    <string name="daily_plans">Daily Plans</string>
+    <string name="task_01">Task 01</string>
+    <string name="task_priority">Task Priority :</string>
+    <string name="_2_medium">2 - Medium</string>
+    <string name="_1_high">1 - High</string>
+    <string name="_3_low">3 - Low</string>
+    <string name="task">Task :</string>
+    <string name="remove">Remove</string>
+    <string name="task_02">Task 02</string>
+    <string name="task_04">Task 04</string>
+    <string name="task_05">Task 05</string>
+    <string name="task_06">Task 06</string>
+    <string name="priority">Priority</string>
+    <string name="completed">Completed</string>
+    <string name="task_03">Task 03</string>
+    <string name="remaining_tasks">Remaining Tasks</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="_2">2</string>
+</resources>
